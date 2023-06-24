@@ -1,0 +1,25 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "name": "apples",
+      "quantity": 2,
+      "cost": 200,
+      "imageUrl": "https://cdn.britannica.com/22/187222-050-07B17FB6/apples-on-a-tree-branch.jpg"
+    },
+    {
+      "name": "Guava",
+      "quantity": 5,
+      "cost": 230,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfkOCG80a95fj1Eh3d_y3bFjhOZKAoOfaxjA&usqp=CAU",
+      "id": 2
+    },
+    {
+      "name": "Banana",
+      "quantity": 6,
+      "cost": 100,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRhNSpM5CQJWHFUJxzLc2ZoQL1_UkrCcX3HQ&usqp=CAU",
+      "id": 3
+    }
+  ]
+}
